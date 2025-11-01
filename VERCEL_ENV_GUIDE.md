@@ -6,8 +6,8 @@ Add these in your Vercel project settings:
 
 ### VITE_API_BASE_URL
 - **Description**: Backend API URL
-- **Value**: `https://your-backend-url.onrender.com` (replace with your actual Render backend URL)
-- **Example**: `https://mini-drive-api.onrender.com`
+- **Value**: `https://your-backend-url.onrender.com` (replace with your actual backend URL)
+- **Example**: `https://mini-drive-backend-0hls.onrender.com`
 
 ## How to Add in Vercel:
 
@@ -16,7 +16,7 @@ Add these in your Vercel project settings:
 3. Click on **Environment Variables** in the sidebar
 4. Add the variable:
    - **Name**: `VITE_API_BASE_URL`
-   - **Value**: Your Render backend URL
+   - **Value**: Your backend URL (for example `https://mini-drive-backend-0hls.onrender.com`)
    - **Environment**: Production (and optionally Preview/Development)
 5. Click **Save**
 6. Redeploy your application

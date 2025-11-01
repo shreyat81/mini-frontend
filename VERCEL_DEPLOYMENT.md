@@ -2,7 +2,7 @@
 
 ## Prerequisites
 - ✅ Backend deployed on Render
-- ✅ Backend URL available (e.g., `https://mini-drive-api.onrender.com`)
+- ✅ Backend URL available (e.g., `https://mini-drive-backend-0hls.onrender.com`)
 - ✅ GitHub repository for frontend code
 
 ## Deployment Steps
